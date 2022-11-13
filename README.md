@@ -9,3 +9,5 @@
 > ru.txt - словарь русских слов, который предоставляет LibreOffice ([LibreOffice](https://download.documentfoundation.org/libreoffice/src/7.4.2/libreoffice-dictionaries-7.4.2.3.tar.xz?idx=2)),  он был дополнен словами из датасетов
 
 > jokes.rar - основной датасет с анекдотами [Kaggle](https://www.kaggle.com/datasets/konstantinalbul/russian-jokes)
+
+> begin-samples.txt - начальные слова из всех примеров датасета, используется для рандомной генерации
